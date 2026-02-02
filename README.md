@@ -1,4 +1,4 @@
-# Skin Disease Classification using CNN 
+# Skin Disease Classification using ANN 
 
 This project focuses on classifying multiple skin diseases using deep learning and
 medical image analysis. A CNN-based model is used to learn visual patterns from skin images.
@@ -22,9 +22,6 @@ medical image analysis. A CNN-based model is used to learn visual patterns from 
 - TensorFlow / Keras
 - Computer Vision
 - Google Colab
-
-##  Dataset
-
 
 ## 👤 Author
 **Danish Zulfiqar **
